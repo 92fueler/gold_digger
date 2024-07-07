@@ -1,0 +1,25 @@
+body {
+  background-color: #EDF752;
+  position: relative;
+}
+
+h1, h4 {
+  font-family: "Playwrite NZ", cursive;
+}
+
+.description {
+  width: 600px;
+}
+
+.left {
+  width: 600px;
+  float: left;
+  position: absolute;
+  margin-top: 25px;
+}
+
+.right {
+  float: left;
+  position: absolute;
+  margin-left: 660px;
+}
